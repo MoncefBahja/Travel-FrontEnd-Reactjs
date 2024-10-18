@@ -1,0 +1,15 @@
+.footer {
+    background-color: black;  
+  text-align: center;
+
+
+    padding: 20px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+  }
+
+
+.footer h1 {
+    color: azure;
+}
